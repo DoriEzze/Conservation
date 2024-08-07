@@ -1,2 +1,4 @@
-0 Pintura
-1 No paint
+0 No Painting Lights
+1 No Painting No Lights
+2 Painting no Lights
+3 Painting With Ligths
